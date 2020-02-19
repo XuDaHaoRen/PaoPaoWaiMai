@@ -1,15 +1,14 @@
 # PaoPaoWaiMai
-基于 Android 的外卖APP
-
-项目介绍：<br>
+---
+<b>项目介绍：<b/><br>
 界面：<br>三秒欢迎界面、用户注册、首页（包含三个 Fragment）、商店信息、日常百货、食物、购物车、支付订单、搜索的界面<br>
 
 主要框架：<br>
 UI:xUtils3 --- https://github.com/wyouflf/xUtils3 <br>
 缓冲列表：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh <br>
 json 解析：https://github.com/alibaba/fastjson <br>
-
-项目运行图片：<br>
+---
+<b>项目运行图片：<b/><br>
 界面文件：
 ![:(](https://github.com/XuDaHaoRen/img-folder/blob/master/%E8%B7%91%E8%B7%91%E5%A4%96%E5%8D%96/Activity%20%E7%95%8C%E9%9D%A2%E7%9B%AE%E5%BD%95.png)<br>
 数据解析+UI 适配+数据缓冲文件：
@@ -27,7 +26,10 @@ json 解析：https://github.com/alibaba/fastjson <br>
 不显示图片请进博客链接：
 
 如何解决 github 不显示图片：https://blog.csdn.net/weixin_42128813/article/details/102915578 <br>
-项目声明：<br>
+
+---
+
+<b>项目声明：</b><br>
 本项目在 2016年低建立，当时的框架，IDE 都是最新版本，但现在来看就有些老了，所以运行时请满足以下条件<br>
 Android Studio :2.3<br>
 SDK：6.0<br>
