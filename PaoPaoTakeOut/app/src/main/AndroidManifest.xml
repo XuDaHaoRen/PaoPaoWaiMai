@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="activity.xbl.com.paopaotakeout">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:name=".MainApplication"
+        android:theme="@android:style/Theme.NoTitleBar"
+        >
+        <activity android:name=".RegisterActivity">
+
+
+
+
+        </activity>
+        <activity android:name=".LoginActivity">
+
+
+
+
+
+        </activity>
+        <activity android:name=".MainActicity">
+
+
+
+        </activity>
+        <activity android:name=".WelcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+
+        </activity>
+        <activity android:name=".DayGoodsActivity">
+
+
+
+
+
+        </activity>
+        <activity android:name=".PayActivity">
+
+
+        </activity>
+        <activity android:name=".FoodActivity">
+
+        </activity>
+        <activity android:name=".FlavourActivity">
+
+
+        </activity>
+        <activity android:name=".StoreActivity">
+
+
+
+
+
+
+        </activity>
+        <activity android:name=".CarActivity">
+
+        </activity>
+        <activity android:name=".PayStateActivity"></activity>
+        <activity android:name=".SearchActivity"></activity>
+    </application>
+
+</manifest>

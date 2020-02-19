@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="10dp"
+    >
+
+        >
+        <ImageView
+            android:layout_width="@dimen/item_food_flavour_pic_size"
+            android:layout_height="@dimen/item_food_flavour_pic_size"
+            android:id="@+id/item_store_iv"
+            android:scaleType="fitXY"
+            android:background="@drawable/waitpic"
+
+            />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:id="@+id/item_store_name_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="芝士汉堡"
+                android:textSize="@dimen/item_food_flavour_name_text_size"
+                android:textColor="@color/black"
+                />
+            <TextView
+                android:id="@+id/item_store_address_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="地址：山东商置职业技术学院"
+                android:textColor="@color/gray"
+                />
+            <TextView
+                android:id="@+id/item_store_time_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="详情"
+                android:textColor="@color/red"
+
+                />
+        </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>

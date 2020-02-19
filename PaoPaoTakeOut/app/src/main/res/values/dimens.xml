@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="register_text_size">20sp</dimen>
+    <dimen name="register_padding_ten">10dp</dimen>
+    <dimen name="line_high">1dp</dimen>
+    <dimen name="login_text_size">20sp</dimen>
+    <dimen name="login_padding">15dp</dimen>
+    <dimen name="home_padding_ten">5dp</dimen>
+    <dimen name="pay_item_heigh">60dp</dimen>
+    <dimen name="pic_size">100dp</dimen>
+    <dimen name="pic_40">40dp</dimen>
+    <dimen name="item_food_flavour_pic_size">100dp</dimen>
+    <dimen name="item_food_flavour_name_text_size">15sp</dimen>
+
+</resources>

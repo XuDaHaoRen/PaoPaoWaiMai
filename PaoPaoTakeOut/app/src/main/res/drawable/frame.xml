@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false"
+    >
+    <!--动画是否只播放一次-->
+    <item android:drawable="@drawable/app_loading0" android:duration="200"/><!--背景图片，多少毫秒切换一次-->
+    <item android:drawable="@drawable/app_loading1" android:duration="200"/>
+
+</animation-list>
