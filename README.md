@@ -35,5 +35,5 @@ json 解析：https://github.com/alibaba/fastjson <br>
 Android Studio :2.3<br>
 SDK：6.0<br>
 gradle : 2.3.2<br>
-同时，接口已经不再进行维护，但程序扔和运行，所以运行的程序有空白页
+同时，接口已经不再进行维护，但程序仍可运行，所以运行的程序有空白页
 
